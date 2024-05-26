@@ -20,4 +20,6 @@ main {
     border: 2px solid #d3d6da;
     width: 60px;
     height: 60px;
+    font-size: xx-large;
+    font-weight: bolder;
 }
