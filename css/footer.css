@@ -38,7 +38,7 @@ footer {
     font-weight: bolder;
 }
 
-.keyboard-block__delete {
+.keyboard-block__back {
     display: flex;
     justify-content: center;
     align-items: center;
